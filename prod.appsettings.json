@@ -1,0 +1,12 @@
+[
+    {
+        "name": "TestSettings__LockoutDays",
+        "slotSetting": false,
+        "value": "15"
+    },
+    {
+        "name": "TestSettings__TimeoutMinute",
+        "slotSetting": false,
+        "value": "3600"
+    }
+]
